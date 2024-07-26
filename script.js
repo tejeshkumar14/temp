@@ -1,6 +1,6 @@
 const url1 = `https://newsapi.org/v2/everything?`;
 const url2 = `https://newsapi.org/v2/top-headlines?`
-const apikey = `&apiKey=b66a445ff4f34310ad75cd1ac8d47824`;
+const apikey = `&apiKey=09e4ae8a5ee14da986a3d4e3bc358c96`;
 
 let searchbtn = document.querySelector("#searchButton");
 let textbox = document.querySelector("#searchBox");
